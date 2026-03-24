@@ -45,7 +45,4 @@ A suite of composable libraries for building reliable, AI-native .NET applicatio
 ---
 
 ## 📫 Let's connect
-
-I'm open to **remote AI/LLM engineering roles** — especially teams building developer tools, code intelligence, or LLM-native infrastructure.
-
 📧 angelodaniele7@gmail.com
