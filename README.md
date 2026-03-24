@@ -1,4 +1,4 @@
-# Hi, I'm Danny (Angelo Daniele) 👋
+# Hi, I'm Danny (Daniele) 👋
 
 > I build the infrastructure that makes AI reliable in .NET.
 
